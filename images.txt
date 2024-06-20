@@ -1,2 +1,7 @@
 golang
 redis
+nginx
+mysql
+mongo
+nacos
+elasticsearch
