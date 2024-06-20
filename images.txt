@@ -1,7 +1,5 @@
-golang
-redis
-nginx
-mysql
-mongo
-nacos
+nacos/nacos-server
 elasticsearch
+kibana
+emqx
+xuxueli/xxl-job-admin
