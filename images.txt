@@ -1,3 +1,2 @@
 nacos/nacos-server
 emqx
-xuxueli/xxl-job-admin
