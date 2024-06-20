@@ -1,5 +1,3 @@
 nacos/nacos-server
-elasticsearch
-kibana
 emqx
 xuxueli/xxl-job-admin
