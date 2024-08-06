@@ -1,13 +1,1 @@
-goharbor/chartmuseum-photon:v1.10.6
-goharbor/clair-adapter-photon:v1.10.6
-goharbor/clair-photon:v1.10.6
-goharbor/harbor-core:v1.10.6
-busybox:latest
-goharbor/harbor-jobservice:v1.10.6
-goharbor/nginx-photon:v1.10.6
-goharbor/notary-server-photon:v1.10.6
-goharbor/notary-signer-photon:v1.10.6
-goharbor/harbor-portal:v1.10.6
-goharbor/redis-photon:v1.10.6
-goharbor/registry-photon:v1.10.6
-goharbor/harbor-registryctl:v1.10.6
+grafana/loki:2.1.0
