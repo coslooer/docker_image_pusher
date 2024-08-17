@@ -1,1 +1,1 @@
-emqx/emqx:latest
+emqx/emqx-operator-controller:2.2.23
