@@ -1,1 +1,2 @@
-busybox:1.32
+apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:latest
