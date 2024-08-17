@@ -1,2 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
-apache/rocketmq:latest
+emqx/emqx:latest
