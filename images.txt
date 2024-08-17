@@ -1,1 +1,1 @@
-emqx/emqx-operator-controller:2.2.23
+jenkins/inbound-agent:4.10-2
