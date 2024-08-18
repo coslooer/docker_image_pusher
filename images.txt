@@ -1,1 +1,1 @@
-xiaocaoandxiaoxi/builder-maven
+docker.io/kubespheredev/builder-base:v3.1.0
