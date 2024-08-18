@@ -1,1 +1,1 @@
-kubesphere/builder-maven:v3.2.0
+xiaocaoandxiaoxi/builder-maven
