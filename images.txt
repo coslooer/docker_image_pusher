@@ -1,1 +1,1 @@
-dockette/nodejs:v17
+dockette/nodejs:v18
