@@ -1,2 +1,1 @@
-kubesphere/builder-nodejs:v3.2.0
-jenkins/inbound-agent:4.10-2
+dockette/nodejs:v17
