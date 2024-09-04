@@ -1,1 +1,1 @@
- bitnami/node:20
+node:16-alpine
