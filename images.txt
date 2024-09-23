@@ -1,1 +1,2 @@
-docker.io/library/golang:1.10-alpine
+docker.io/i386/debian:stretch-slim
+docker.io/i386/golang:1.12.7-buster
