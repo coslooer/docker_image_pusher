@@ -1,1 +1,1 @@
-registry.docker.com/grafana/loki-docker-driver:main
+ grafana/loki-docker-driver:latest
