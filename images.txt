@@ -1,1 +1,1 @@
-openresty/openresty
+grafana/loki-docker-driver:latest
