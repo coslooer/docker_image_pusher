@@ -1,2 +1,1 @@
-docker.io/i386/debian:stretch-slim
-docker.io/i386/golang:1.12.7-buster
+registry.docker.com/grafana/loki-docker-driver:main
