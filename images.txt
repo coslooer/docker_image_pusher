@@ -1,1 +1,1 @@
-carlosedp/loki-docker-driver:latest
+lfdominguez/docker-log-driver-loki
