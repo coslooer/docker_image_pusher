@@ -1,1 +1,1 @@
- grafana/loki-docker-driver:latest
+carlosedp/loki-docker-driver:latest
