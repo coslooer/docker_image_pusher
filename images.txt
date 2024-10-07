@@ -1,1 +1,1 @@
-lfdominguez/docker-log-driver-loki
+hsxjzy/ocr_recognition:v1.6
