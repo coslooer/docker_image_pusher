@@ -1,1 +1,2 @@
-hsxjzy/ocr_recognition:v1.6
+prom/alertmanager:v0.21.0
+jimmidyson/configmap-reload:v0.4.0
