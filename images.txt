@@ -1,3 +1,3 @@
-giantswarm/vpa-admission-controller:0.8.0
-giantswarm/vpa-recommender:0.8.0
-giantswarm/vpa-updater:0.8.0
+giantswarm/vpa-admission-controller:0.8.1
+giantswarm/vpa-recommender:0.8.1
+giantswarm/vpa-updater:0.8.1
