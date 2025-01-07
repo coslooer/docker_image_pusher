@@ -1,1 +1,1 @@
-huas/datax
+centos:7
