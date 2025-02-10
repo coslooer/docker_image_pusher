@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:alpine-7.2-latest
+bensdocker/chatbox-team
