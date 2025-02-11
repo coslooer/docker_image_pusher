@@ -1,1 +1,1 @@
-bensdocker/chatbox-team
+ghcr.io/open-webui/open-webui:main
