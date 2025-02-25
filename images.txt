@@ -1,1 +1,1 @@
-kubesphere/builder-maven:v3.2.1-jdk18
+kubesphere/builder-base:v2.1.1
