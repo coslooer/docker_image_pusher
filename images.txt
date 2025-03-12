@@ -1,1 +1,4 @@
-kubesphere/builder-maven:v3.2.1-jdk11
+docker.io/cairry/watchalert:latest
+docker.io/cairry/watchalert-web:latest
+redis:latest
+mysql:8.0
