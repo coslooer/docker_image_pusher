@@ -1,1 +1,1 @@
-islandora/activemq
+atlassian/jira-software
