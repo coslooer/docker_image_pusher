@@ -1,1 +1,1 @@
-atlassian/jira-software
+mysql:5.7
